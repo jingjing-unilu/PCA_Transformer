@@ -3,10 +3,10 @@ Official code for ["Transformer Multivariate Forecasting: Less is More?"](https:
 ## Citation
 If you find this repo useful, please cite our paper.
 ```
-@article{xu2023transformer,
+@inproceedings{xu2023transformer,
   title={Transformer Multivariate Forecasting: Less is More?},
-  author={Xu, Jingjing and Wu, Caesar and Li, Yuan-Fang and Bouvry, Pascal},
-  journal={arXiv preprint arXiv:2401.00230},
+  author={XU, Jingjing and WU, Caesar and Li, Yuan-Fang and BOUVRY, Pascal},
+  booktitle={AI4TS@AAAI'24},
   year={2023}
 }
 ```
