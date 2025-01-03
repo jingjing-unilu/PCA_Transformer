@@ -7,7 +7,7 @@ If you find this repo useful, please cite our paper.
   title={Transformer Multivariate Forecasting: Less is More?},
   author={XU, Jingjing and WU, Caesar and Li, Yuan-Fang and BOUVRY, Pascal},
   booktitle={AI4TS@AAAI'24},
-  year={2023}
+  year={2024}
 }
 ```
 ## Acknowledgement
